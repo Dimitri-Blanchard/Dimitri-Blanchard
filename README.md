@@ -13,7 +13,7 @@ Hi, I'm Dimitri! 👨‍💻 I'm a developer with a passion for solving real-wor
 
 - 🔭 **Currently Working On**:  
   I'm excited to be part of several innovative projects:  
-  - [ElevateWeb](https://elevateweb.ch/) — Building tools for a seamless web experience 🚀  
+  - [ElevateWeb](https://elevateweb.ch/) — Building the best websites for professionals 🚀  
   - [RecyTech](https://recytech.me/) — Innovating the recycling tech space for a greener tomorrow ♻️
 
 - 🌱 **Learning & Growing**:  
