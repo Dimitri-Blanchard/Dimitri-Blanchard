@@ -154,7 +154,7 @@ I like to keep track of my progress and improvements. Here are my GitHub stats:
 
 Feel free to reach out if you want to talk tech, share ideas, or collaborate on something exciting! 😊
 
-- 📧 **Email**: [kor@tuta.com](mailto:kor@tuta.com) & [dimitriblanchard@proton.me](mailto:dimitriblanchard@proton.me)
+- 📧 **Email**: [dimitriblanchard@proton.me](mailto:dimitriblanchard@proton.me)
 - 💬 **LinkedIn**: [Dimitri Blanchard](https://www.linkedin.com/in/dimitri-blanchard-624695335/)
 - 📶 **Signal**: dimitri.05
 
